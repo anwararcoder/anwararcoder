@@ -33,15 +33,11 @@ I’m an innovative Frontend developer with a good experience of about 2 Year in
 <code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
 
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
-
 #### Top Repositories
 
-
-<a href="https://github.com/anwararcoder/movie-db">
+<a href="https://github.com/anwararcoder/projects-box-menu-app">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anwararcoder&repo=github-readme-stats&theme=buefy" />
 </a>
-<a href="https://github.com/anwararcoder/projects-box-menu-app">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anwararcoder&repo=anuraghazra.github.io&theme=buefy" />
+<a href="https://github.com/anwararcoder/anwararcoder.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anwararcoder&repo=anwararcoder.github.io&theme=buefy" />
 </a>
