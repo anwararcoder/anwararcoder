@@ -82,9 +82,6 @@
         </td>
         <td>
             <a href="https://slack.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/slack-new-logo.svg" alt="slack" width="40" height="40" /> </a></td>
-        <td>
-        
-        </td>
     </tr>
 </table>
 
